@@ -70,15 +70,15 @@
       "repository": "https://github.com/witwin-ai/wt_channel",
       "versions": [
         {
-          "version": "0.1.0",
-          "publishedAt": 1793833192,
+          "version": "0.1.1",
+          "publishedAt": 1793858458,
           "source": {
             "type": "index",
             "distribution": "wt-channel",
-            "version": "0.1.0"
+            "version": "0.1.1"
           },
           "engines": {
-            "witwin": "^1.0.0"
+            "witwin": "^2.0.0"
           }
         }
       ]
@@ -97,15 +97,15 @@
       "repository": "https://github.com/witwin-ai/wt_maxwell",
       "versions": [
         {
-          "version": "0.1.1",
-          "publishedAt": 1793831935,
+          "version": "0.1.2",
+          "publishedAt": 1793858456,
           "source": {
             "type": "index",
             "distribution": "wt-maxwell",
-            "version": "0.1.1"
+            "version": "0.1.2"
           },
           "engines": {
-            "witwin": "^1.0.0"
+            "witwin": "^2.0.0"
           }
         }
       ]
@@ -124,15 +124,15 @@
       "repository": "https://github.com/witwin-ai/wt_radar",
       "versions": [
         {
-          "version": "0.1.0",
-          "publishedAt": 1793833394,
+          "version": "0.1.1",
+          "publishedAt": 1793858457,
           "source": {
             "type": "index",
             "distribution": "wt-radar",
-            "version": "0.1.0"
+            "version": "0.1.1"
           },
           "engines": {
-            "witwin": "^1.0.0"
+            "witwin": "^2.0.0"
           }
         }
       ]
