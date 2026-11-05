@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "title": {
+    "en": "WiTwin plugins",
+    "zh-CN": "WiTwin 插件"
+  },
+  "metadata": {
+    "categories": {
+      "simulation": {
+        "title": {
+          "en": "Simulation",
+          "zh-CN": "仿真"
+        }
+      },
+      "modeling": {
+        "title": {
+          "en": "Modeling",
+          "zh-CN": "建模"
+        }
+      },
+      "visualization": {
+        "title": {
+          "en": "Visualization",
+          "zh-CN": "可视化"
+        }
+      },
+      "tools": {
+        "title": {
+          "en": "Tools",
+          "zh-CN": "工具"
+        }
+      }
+    },
+    "labels": {
+      "em": {
+        "title": {
+          "en": "Electromagnetics",
+          "zh-CN": "电磁"
+        }
+      },
+      "gpu": {
+        "title": {
+          "en": "Needs a GPU",
+          "zh-CN": "需要 GPU"
+        }
+      }
+    },
+    "sortKeys": {
+      "featured": {
+        "title": {
+          "en": "Featured",
+          "zh-CN": "推荐"
+        },
+        "order": "desc"
+      }
+    }
+  },
+  "plugins": [
+    {
+      "id": "witwin.channel",
+      "distribution": "wt-channel",
+      "title": {
+        "en": "Channel"
+      },
+      "description": {
+        "en": "Radio channel radiomap solver with 2D visualization."
+      },
+      "icon": "radio",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/witwin-ai/wt_channel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishedAt": 1793833192,
+          "source": {
+            "type": "index",
+            "distribution": "wt-channel",
+            "version": "0.1.0"
+          },
+          "engines": {
+            "witwin": "^1.0.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "witwin.maxwell",
+      "distribution": "wt-maxwell",
+      "title": {
+        "en": "Maxwell"
+      },
+      "description": {
+        "en": "FDTD electromagnetic field solver with 2D/3D visualization."
+      },
+      "icon": "waves",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/witwin-ai/wt_maxwell",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishedAt": 1793831935,
+          "source": {
+            "type": "index",
+            "distribution": "wt-maxwell",
+            "version": "0.1.1"
+          },
+          "engines": {
+            "witwin": "^1.0.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "witwin.radar",
+      "distribution": "wt-radar",
+      "title": {
+        "en": "Radar"
+      },
+      "description": {
+        "en": "FMCW radar simulation from Studio meshes with signal visualization."
+      },
+      "icon": "radar",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/witwin-ai/wt_radar",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishedAt": 1793833394,
+          "source": {
+            "type": "index",
+            "distribution": "wt-radar",
+            "version": "0.1.0"
+          },
+          "engines": {
+            "witwin": "^1.0.0"
+          }
+        }
+      ]
+    }
+  ]
+}
