@@ -70,38 +70,11 @@
       "repository": "https://github.com/witwin-ai/wt_channel",
       "versions": [
         {
-          "version": "0.1.1",
-          "publishedAt": 1793858458,
+          "version": "0.1.2",
+          "publishedAt": 1793956263,
           "source": {
             "type": "index",
             "distribution": "wt-channel",
-            "version": "0.1.1"
-          },
-          "engines": {
-            "witwin": "^2.0.0"
-          }
-        }
-      ]
-    },
-    {
-      "id": "witwin.maxwell",
-      "distribution": "wt-maxwell",
-      "title": {
-        "en": "Maxwell"
-      },
-      "description": {
-        "en": "FDTD electromagnetic field solver with 2D/3D visualization."
-      },
-      "icon": "waves",
-      "license": "GPL-3.0-or-later",
-      "repository": "https://github.com/witwin-ai/wt_maxwell",
-      "versions": [
-        {
-          "version": "0.1.2",
-          "publishedAt": 1793858456,
-          "source": {
-            "type": "index",
-            "distribution": "wt-maxwell",
             "version": "0.1.2"
           },
           "engines": {
@@ -124,15 +97,18 @@
       "repository": "https://github.com/witwin-ai/wt_radar",
       "versions": [
         {
-          "version": "0.1.1",
-          "publishedAt": 1793858457,
+          "version": "0.1.2",
+          "publishedAt": 1793956262,
           "source": {
             "type": "index",
             "distribution": "wt-radar",
-            "version": "0.1.1"
+            "version": "0.1.2"
           },
           "engines": {
             "witwin": "^2.0.0"
+          },
+          "web": {
+            "sdkVersion": "2.0.0"
           }
         }
       ]
