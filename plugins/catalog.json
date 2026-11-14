@@ -70,12 +70,12 @@
       "repository": "https://github.com/witwin-ai/wt_channel",
       "versions": [
         {
-          "version": "0.1.2",
-          "publishedAt": 1793956263,
+          "version": "0.2.0",
+          "publishedAt": 1794607111,
           "source": {
             "type": "index",
             "distribution": "wt-channel",
-            "version": "0.1.2"
+            "version": "0.2.0"
           },
           "engines": {
             "witwin": "^2.0.0"
@@ -97,12 +97,12 @@
       "repository": "https://github.com/witwin-ai/wt_radar",
       "versions": [
         {
-          "version": "0.1.2",
-          "publishedAt": 1793956262,
+          "version": "0.2.0",
+          "publishedAt": 1794605763,
           "source": {
             "type": "index",
             "distribution": "wt-radar",
-            "version": "0.1.2"
+            "version": "0.2.0"
           },
           "engines": {
             "witwin": "^2.0.0"
